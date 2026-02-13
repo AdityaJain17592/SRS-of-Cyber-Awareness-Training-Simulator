@@ -48,7 +48,3 @@ The simulator operates in the **cybersecurity training domain** and must align w
 - Generate compliance and risk reports  
 - Customize training modules  
 - Manage user accounts and access levels  
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/CyberAwarenessTextRepo.git
